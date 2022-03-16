@@ -35,6 +35,7 @@ I am 32 years old, I work as an investigator, lately my work does not bring me t
 * Figma(for web development)
 * Editors: VSCode
 
+---
 
 ### **Code Example**
 
@@ -62,6 +63,7 @@ if(cluster.isMaster) {
   require('./index')(PORT)
 }
 ```
+---
 
 ### **Education**
 
@@ -69,6 +71,8 @@ if(cluster.isMaster) {
 * **Courses:** 
     * CS50 Lectures
     * JavaScript Development (RS School) (in process...)
+
+---
 
 ### **Languages**
 
