@@ -38,8 +38,9 @@ I am 32 years old, I work as an investigator, lately my work does not bring me t
 ---
 
 ### **Code Example**
-
-```const cluster = require('cluster')
+````
+```JavaScript 
+const cluster = require('cluster')
 
 function startWorker() {
   const worker = cluster.fork()
@@ -63,6 +64,8 @@ if(cluster.isMaster) {
   require('./index')(PORT)
 }
 ```
+````
+
 ---
 
 ### **Education**
